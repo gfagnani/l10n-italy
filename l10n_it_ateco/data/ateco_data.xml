@@ -9,6 +9,7 @@
         <field name="name">Agricoltura, silvicoltura e pesca</field>
         <field name="description">Agricoltura, silvicoltura e pesca</field>
     </record>
+    
     <record model="ateco.category" id="A01">
         <field name="code">A01</field>
         <field
